@@ -1,4 +1,4 @@
-# <img src="Streamlit.png" width=10%> Streamlit
+# <img src="Streamlit.png" width=5%> Streamlit
 
 ## Fastest Way to Build and Share Data Apps
 
